@@ -1,10 +1,10 @@
-# Store Product Locator
+# Store Product Listing
 
-A React-based product search application that allows users to locate items dynamically using structured data rendering and state management.
+A high-performance product search application built with React and Vite that delivers fast, responsive, and dynamic product browsing..
 
 ## Live Site:
 
-(Add deployment link if available)
+https://store-product-listing.netlify.app/
 
 ## Tech Stack
 
@@ -16,26 +16,28 @@ A React-based product search application that allows users to locate items dynam
 
 ## Features
 
-- External API data fetching using async/await
-- Loading and error state handling
-- Dynamic product searching and filtering
-- Search-based state management
-- Conditional rendering
-- Responsive layout
-- Component-based architecture
+- Dynamic product search and filtering
+- Asynchronous API integration using async/await
+- Loading and error state management
+- Conditional rendering patterns
+- Responsive layout across devices
+- Clean and modular component structure
 
 ## API Integration
 
-- Fetches product data from an external REST endpoint
-- Handles asynchronous requests
-- Implements loading indicators
-- Gracefully handles API errors
+- Fetches product data from a REST endpoint
+- Implements graceful error handling
+- Displays user-friendly loading indicators
+- Manages asynchronous state updates efficiently
 
 ## Local Setup
 
 ```
+git clone https://github.com/your-username/store-product-listing.git
+cd store-product-listing
 npm install
 npm run dev
+
 
 ```
 
